@@ -1,22 +1,35 @@
-# IA206 - Neuro-Symbolic Artificial Intelligence
+# Neuro-Symbolic AI (IA206) - 2023/2024
 
 ## Course Overview
 
-This repository contains the materials and code for the course IA206 - Neuro-Symbolic Artificial Intelligence, taught by Professor Nils Holzenberger during S2-P3 of the 2023-2024 academic year at Télécom Paris. The course focuses on the integration of symbolic and statistical approaches in Artificial Intelligence (AI), beginning with the fundamentals of programming in Prolog and leading to more advanced topics like ProbLog, a framework that combines symbolic reasoning with neural networks.
+This repository contains materials and resources for the course **Neuro-Symbolic AI (IA206)**, part of the **Data & Artificial Intelligence** curriculum. The course explores the intersection of symbolic and statistical approaches in Artificial Intelligence (AI). Students will learn to combine traditional symbolic methods like logic and knowledge representation with modern machine learning techniques, particularly neural networks.
 
-## Topics Covered
+### Key Topics:
 
-1. Prolog and ProbLog: Declarative programming for symbolic AI.
-2. Formal Logic: Propositions, predicates, proof by refutation.
-3. Natural Language Processing (NLP): DCG, parsing, and unification in Prolog.
-4. Symbolic Machine Learning: Concepts of symbolic induction and complexity minimization.
-5. Knowledge Representation: Logics, ontologies, and Semantic Web technologies.
-6. Probabilistic Programming: Use of probabilistic logic and decision diagrams.
+- Prolog: A declarative programming language tailored for symbolic AI tasks such as knowledge management, natural language processing, and reasoning.
+- ProbLog: An extension of Prolog that integrates probabilistic reasoning and neural networks, allowing for data-efficient, interpretable AI.
+- Formal Logic: Propositional and predicate logic, proofs, and refutations.
+- Natural Language Processing (NLP): Techniques such as Definite Clause Grammars (DCG) and unification-based parsing.
+- Symbolic Machine Learning: Inductive learning and complexity minimization.
+- Knowledge Representation: Description logics, ontologies, and the Semantic Web.
+- Probabilistic Programming: ProbLog and decision diagrams.
 
-## Course Schedule
+## Prerequisites
 
-- Period: S2-P3 (12/02/2024 - 24/04/2024)
-- Language: English
+Students are expected to have a basic understanding of:
+- Formal logic
+- General AI concepts
+- Basic programming skills (Prolog knowledge is a plus but not required)
+
+## Course Structure
+
+- Total Hours: 24 hours (16 sessions)
+- Credits: 2.5 ECTS
+- Evaluation: Practical assignments and knowledge tests.
+
+## Instructor
+
+- Professor Nils Holzenberger
 
 ## Installation and Setup
 
